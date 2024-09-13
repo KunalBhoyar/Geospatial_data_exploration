@@ -1,4 +1,3 @@
-# Assignment_1
 
 #  Geospatial data exploration tool
 
